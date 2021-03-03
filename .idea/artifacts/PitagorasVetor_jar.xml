@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PitagorasVetor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PitagorasVetor_jar</output-path>
+    <root id="archive" name="PitagorasVetor.jar">
+      <element id="module-output" name="PitagorasVetor" />
+    </root>
+  </artifact>
+</component>
